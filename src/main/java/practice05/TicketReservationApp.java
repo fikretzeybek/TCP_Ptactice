@@ -1,4 +1,4 @@
-package biletRezervasyonApp;
+package practice05;
 /*
 Project: Bilet Rezervasyon ve Bilet Fiyatı Hesaplama Uygulaması
 

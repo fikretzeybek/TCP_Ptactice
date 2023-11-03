@@ -1,4 +1,4 @@
-package biletRezervasyonApp;
+package practice05;
 
 import java.util.ArrayList;
 import java.util.List;

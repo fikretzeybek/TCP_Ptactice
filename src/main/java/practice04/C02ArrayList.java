@@ -31,7 +31,6 @@ public class C02ArrayList {
             brr[i]=tekrarsiz.get(i);
 
         }
-        System.out.println("brr : "+ Arrays.toString(brr));
 
         arr=brr;
 

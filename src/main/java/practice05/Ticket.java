@@ -1,4 +1,4 @@
-package biletRezervasyonApp;
+package practice05;
 
 public class Ticket {
     //4-mesafe(km),koltuk no,fiyat,yolculuk tipi

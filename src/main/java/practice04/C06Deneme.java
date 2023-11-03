@@ -1,5 +1,7 @@
 package practice04;
 
+import static practice04.C05Varargs.enUzunKelime;
+
 public class C06Deneme {
     public static void main(String[] args) {
 
@@ -8,7 +10,7 @@ public class C06Deneme {
         String str3="Deniz";
 
 
-        C05Varargs1.enUzunKelime(str1,str2,str3);
+        enUzunKelime(str1,str2,str3);
 
         System.out.println("==========");
     }
